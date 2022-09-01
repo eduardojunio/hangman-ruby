@@ -1,0 +1,15 @@
+Hangman Ruby UI
+
+   _________
+   |       |
+   O       |
+  /|\      |
+  / \      |
+           |
+___________|
+
+_ A N G _ A _
+
+Previous guesses: A B C D E
+
+Your guess: _
